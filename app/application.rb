@@ -1,5 +1,5 @@
 class Application
-
+attr_accessor :items
 
   @@items = []
 
